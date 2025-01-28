@@ -37,7 +37,7 @@ L'objectif est de comprendre les stratégies de mobilité et d'identifier les li
 - **Analyses** : Statistiques descriptives, régressions, corrélations
 - **Visualisations** : Tableaux, graphiques comparatifs
 - **Livrables** :
-  - 📄 **Présentation PPT** 
+  - 📄 **Présentation PPT ([Voir](https://www.canva.com/design/DAGdfpFnLzg/sZgd_KZvDhxL-pyDmIll3Q/view?utm_content=DAGdfpFnLzg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1c1485d653))** 
   - 💻 **Code source** (via GitHub)
 
 ## ✍️ Auteurs
