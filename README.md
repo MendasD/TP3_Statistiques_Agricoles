@@ -42,7 +42,7 @@ L'objectif est de comprendre les stratégies de mobilité et d'identifier les li
 
 ## ✍️ Auteurs
 - NZONDE David Christ (christnzonde@gmail.com) 📧
-- Ndoasna Armand DJEKONBE (djekonbe1e@gmail.com) 📧  
+- Ndoasnan Armand DJEKONBE (djekonbe1e@gmail.com) 📧  
   **Élèves analystes statisticiens** à l'[ENSAE-Dakar](https://www.ensae.sn/) 🎓
 
 ## 👨‍🏫 Superviseur
