@@ -32,7 +32,7 @@ L'objectif est de comprendre les stratégies de mobilité et d'identifier les li
 
 ## 🛠️ Méthodologie & Outils
 - **Langages** : Stata, Python
-- **Outils** : Jupyter Notebook, Github
+- **Outils** : Jupyter Notebook, Github, canva
 - **Données** : Fichier de nettoyage à exécuter et commenter
 - **Analyses** : Statistiques descriptives, régressions, corrélations
 - **Visualisations** : Tableaux, graphiques comparatifs
